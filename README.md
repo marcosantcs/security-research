@@ -1,6 +1,6 @@
 # Security Research
 
-Offensive security studies, OWASP Top 10:2025 analysis, reconnaissance automation and bug bounty report templates.
+OWASP Top 10:2025 analysis, offensive security automation, and vulnerability reporting templates.
 
 ## Structure
 
@@ -11,7 +11,7 @@ Offensive security studies, OWASP Top 10:2025 analysis, reconnaissance automatio
 | `bug-bounty-reports/` | Real-world style vulnerability reports |
 | `templates/` | Bug bounty report templates |
 
-## Platforms
+## Integration Ecosystems
 
 - 🔍 [HackerOne](https://hackerone.com)
 - 🔍 [Bugcrowd](https://bugcrowd.com)
